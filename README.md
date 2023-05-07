@@ -7,7 +7,7 @@ A logging service application that tracks network health for an IoT gateway
 2: Visual Studio Code
 3. Python 3.0^
 
-1. ##IoT device
+##IoT device
 An IoT device is ideal for this project to mimic real-world performance of the logger and interact with sensors and actuators. Two options are available:
     • On Raspberry Pi, boot the device as usual and code directly on the Python IDE to create the script
     • On simulation, install CounterFit as described in this article (Hello World - CounterFit)[].

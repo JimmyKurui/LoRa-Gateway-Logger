@@ -1,6 +1,8 @@
 # LoRa-Gateway-Logger
 A logging service application that tracks network health for an IoT gateway
+
 ---
+
 
 # Getting Started
 1. Rasperry Pi/ Virtual IoT device (CounterFit)

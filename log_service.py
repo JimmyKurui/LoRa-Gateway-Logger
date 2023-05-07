@@ -55,7 +55,7 @@ while True:
     # Retry segment
     if not connected:
         try:
-            time.sleep(3)
+            time.sleep(reconnect_delay)
             retries = retries + 1
             client.reconnect()
         except:

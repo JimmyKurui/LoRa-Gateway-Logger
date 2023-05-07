@@ -59,3 +59,8 @@ Open another bash terminal in the same environment and run `python log_service.p
 ![image](https://user-images.githubusercontent.com/71793888/236688470-0c171679-c826-4a37-9af2-5912d800e1da.png)
 
 Put in a name and client ID of choice and connect. When the server is up, click on Subscription and put in the correct topic name. Run the python application and you'll start to see messages loading! Happy coding
+
+---
+
+![Solution](https://user-images.githubusercontent.com/71793888/236689207-52db5cf7-e324-46c8-b7c1-018b1254c7ee.png)
+
